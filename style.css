@@ -95,7 +95,7 @@ body {}
    top: 0;
    left: 0;
    z-index: 1;
-   background: url('../background_header.jpg');
+   background: url('background_header.jpg');
    background-repeat: no-repeat;
    background-size: 100% 100%;
 
@@ -446,7 +446,7 @@ body {}
 }
 
 .header__btn:after {
-   content: url('../Arrow 2.svg');
+   content: url('/Arrow 2.svg');
    display: flex;
    justify-content: center;
    align-items: center;
@@ -511,7 +511,7 @@ body {}
 }
 
 .btn-aval:after {
-   content: url('../Arrow 2.svg');
+   content: url('Arrow 2.svg');
    left: 30px;
    Width: 11px;
 
@@ -719,7 +719,7 @@ body {}
 
 
 .services__left {
-   background: url('../Rectangle\ 111\ \(1\).png');
+   background: url('Rectangle\ 111\ \(1\).png');
    background-repeat: no-repeat;
    background-size: 100% 100%;
 
@@ -757,7 +757,7 @@ body {}
 }
 
 .services__right {
-   background: url('../Rectangle\ 112\ \(1\).png');
+   background: url('Rectangle\ 112\ \(1\).png');
    background-repeat: no-repeat;
    background-size: 100% 100%;
 
